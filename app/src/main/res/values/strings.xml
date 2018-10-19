@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomMaths</string>
+    <string name="text_result">Result is  %1s.</string>
+</resources>
